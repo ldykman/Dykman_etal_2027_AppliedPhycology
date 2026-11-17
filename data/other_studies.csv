@@ -1,0 +1,6 @@
+study,method,area_m2,total_reported_cost,cost_per_m2,currency_year,converted_to_USD,converted_to_USD_2025,notes
+Layton et al. 2020,bolted mat,12,6850,570.83,USD 2019,570.83,718.84,"6 2m2 patches restored per site, and $570 estimated per m2, manuscript received in 2019"
+Verdura et al. 2018,spore bags,25,1092,43.68,EUR 2018,51.61,66.17,"25 1m2 restored cost 1092 EURO, manuscript received in 2018"
+Verdura et al. 2018,seeded cobble,25,2665,106.60,EUR 2018,125.95,161.48,"25 1m2 restored cost 2665 EURO, manuscript received in 2018"
+Carney et al. 2005,transplanted juvenile,10,382,38.20,USD 2004,38.20,65.10,"Had to make some assumption on this one - they said they outplanted 32 individuals total and that natural kelp beds have 3-6 kelp per meter square, so assuming 30% survival rate and they want 1m2 surviving kelp per plot, let's say they outplanted 10m2. Manuscript received in 2004"
+Yu et al. 2012,direct seeding,120,320,2.67,USD 2011,2.67,3.82,"$320 total for a project of 120 m2, manuscript received in 2011"

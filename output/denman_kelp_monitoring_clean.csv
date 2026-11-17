@@ -1,0 +1,254 @@
+"","date","plot_id","method","number_gravel_in_quadrat","number_kelp_in_quadrat","number_gravel_with_kelp","length_mm","grazers","other_algae","notes","X","X.1","days_after_outplanting","length_cm"
+"64",2024-05-07,1,"medium gravel",NA,2,1,17,"8 limpets","Desmarestia ligulata","",NA,"",72,1.7
+"65",2024-05-07,1,"medium gravel",NA,2,1,31,"8 limpets","Desmarestia ligulata","",NA,"",72,3.1
+"66",2024-05-07,2,"cobble",NA,5,3,10,"1 leafy hornmouth","Desmarestia ligulata (7)","",NA,"",72,1
+"67",2024-05-07,2,"cobble",NA,5,3,20,"1 leafy hornmouth","Desmarestia ligulata (7)","",NA,"",72,2
+"68",2024-05-07,2,"cobble",NA,5,3,30,"1 leafy hornmouth","Desmarestia ligulata (7)","",NA,"",72,3
+"69",2024-05-07,2,"cobble",NA,5,3,255,"1 leafy hornmouth","Desmarestia ligulata (7)","",NA,"",72,25.5
+"70",2024-05-07,2,"cobble",NA,5,3,390,"1 leafy hornmouth","Desmarestia ligulata (7)","",NA,"",72,39
+"71",2024-05-07,3,"line",NA,0,NA,NA,"leafy hornmouth, 1 limpet","Sargassum, Desmarestia ligulata","",NA,"",72,NA
+"72",2024-05-07,4,"direct seeding",NA,0,NA,NA,NA,"Desmarestia ligulata (12), Saccharina latissima (1)","",NA,"",72,NA
+"73",2024-05-07,5,"line",NA,1,NA,4,NA,"Red algae, sargassum","",NA,"",72,0.4
+"74",2024-05-07,6,"pea gravel",NA,0,NA,NA,"1 leafy hornmouth","Sacharina latissima (1), red blade (1)","",NA,"",72,NA
+"75",2024-05-07,7,"tile",NA,3,2,126,NA,"Desmarestia ligulata, red algae","",NA,"",72,12.6
+"76",2024-05-07,7,"tile",NA,3,2,284,NA,"Desmarestia ligulata, red algae","",NA,"",72,28.4
+"77",2024-05-07,7,"tile",NA,3,2,315,NA,"Desmarestia ligulata, red algae","",NA,"",72,31.5
+"78",2024-05-07,8,"cobble",NA,13,6,42,NA,"Desmarestia latissima (8)","",NA,"",72,4.2
+"79",2024-05-07,8,"cobble",NA,13,6,64,NA,"Desmarestia latissima (8)","",NA,"",72,6.4
+"80",2024-05-07,8,"cobble",NA,13,6,95,NA,"Desmarestia latissima (8)","",NA,"",72,9.5
+"81",2024-05-07,8,"cobble",NA,13,6,298,NA,"Desmarestia latissima (8)","",NA,"",72,29.8
+"82",2024-05-07,8,"cobble",NA,13,6,370,NA,"Desmarestia latissima (8)","",NA,"",72,37
+"83",2024-05-07,9,"tile",NA,0,0,NA,"6 limpets, 1 green urchin","Desmarestia, bleach weed","",NA,"",72,NA
+"84",2024-05-07,10,"cobble",NA,6,4,53,NA,"Desmarestia latissima (7), cool sponge","",NA,"",72,5.3
+"85",2024-05-07,10,"cobble",NA,6,4,65,NA,"Desmarestia latissima (7), cool sponge","",NA,"",72,6.5
+"86",2024-05-07,10,"cobble",NA,6,4,88,NA,"Desmarestia latissima (7), cool sponge","",NA,"",72,8.8
+"87",2024-05-07,10,"cobble",NA,6,4,93,NA,"Desmarestia latissima (7), cool sponge","",NA,"",72,9.3
+"88",2024-05-07,10,"cobble",NA,6,4,260,NA,"Desmarestia latissima (7), cool sponge","",NA,"",72,26
+"89",2024-05-07,11,"medium gravel",NA,1,1,55,NA,"Desmarestia ligulata, Laminaria","",NA,"",72,5.5
+"90",2024-05-07,12,"pea gravel",NA,0,NA,NA,"whelk","Desmarestia latissima (8)","",NA,"",72,NA
+"91",2024-05-07,13,"medium gravel",NA,0,0,NA,"leafy hornmouth, 1 abalone, many limpets","Desmarestia","",NA,"",72,NA
+"92",2024-05-07,14,"line",NA,0,NA,NA,NA,"Desmarestia latissima (5)","",NA,"",72,NA
+"93",2024-05-07,15,"direct seeding",NA,0,NA,NA,"2 leafy hornmouth","Desmarestia, Ulva","",NA,"",72,NA
+"94",2024-05-07,16,"tile",NA,3,1,33,NA,"Desmarestia ligulata (30% cover)","",NA,"",72,3.3
+"95",2024-05-07,16,"tile",NA,3,1,93,NA,"Desmarestia ligulata (30% cover)","",NA,"",72,9.3
+"96",2024-05-07,16,"tile",NA,3,1,180,NA,"Desmarestia ligulata (30% cover)","",NA,"",72,18
+"97",2024-05-07,17,"direct seeding",NA,1,NA,2,NA,"Desmarestia, sargassum, red algae","total length 3.6",NA,"",72,0.2
+"98",2024-05-07,18,"pea gravel",NA,0,NA,NA,"1 leafy hornmouth","Sacharina latissima (2), red blade (2)","1 abalone outside quadrat",NA,"",72,NA
+"99",2024-05-07,19,"cobble",NA,14,4,113,"decorator crab","Desmarestia ligulata, Sparlingia","",NA,"",72,11.3
+"100",2024-05-07,19,"cobble",NA,14,4,148,"decorator crab","Desmarestia ligulata, Sparlingia","",NA,"",72,14.8
+"101",2024-05-07,19,"cobble",NA,14,4,206,"decorator crab","Desmarestia ligulata, Sparlingia","",NA,"",72,20.6
+"102",2024-05-07,19,"cobble",NA,14,4,221,"decorator crab","Desmarestia ligulata, Sparlingia","",NA,"",72,22.1
+"103",2024-05-07,19,"cobble",NA,14,4,254,"decorator crab","Desmarestia ligulata, Sparlingia","",NA,"",72,25.4
+"104",2024-05-07,20,"medium gravel",NA,0,0,NA,NA,"Desmarestia ligulata (8), Sparlingia pertusa (2)","",NA,"",72,NA
+"105",2024-05-07,21,"cobble",NA,23,4,131,NA,"Desmarestia ligulata","",NA,"",72,13.1
+"106",2024-05-07,21,"cobble",NA,23,4,199,NA,"Desmarestia ligulata","",NA,"",72,19.9
+"107",2024-05-07,21,"cobble",NA,23,4,302,NA,"Desmarestia ligulata","",NA,"",72,30.2
+"108",2024-05-07,21,"cobble",NA,23,4,495,NA,"Desmarestia ligulata","",NA,"",72,49.5
+"109",2024-05-07,21,"cobble",NA,23,4,798,NA,"Desmarestia ligulata","",NA,"",72,79.8
+"110",2024-05-07,22,"tile",NA,0,0,NA,"A+ decorator crab","Desmarestia ligulata (8), Sparlingia pertusa (1)","",NA,"",72,NA
+"111",2024-05-07,23,"line",NA,0,NA,NA,"Carinate dove snail","Desmarestia ligulata","",NA,"",72,NA
+"112",2024-05-07,24,"pea gravel",NA,2,1,22,NA,"Desmarestia ligulata (5)","",NA,"",72,2.2
+"113",2024-05-07,24,"pea gravel",NA,2,1,173,NA,"Desmarestia ligulata (5)","",NA,"",72,17.3
+"114",2024-05-07,25,"tile",NA,0,0,NA,"dove snail","Sargasium, desmarestia various","",NA,"",72,NA
+"115",2024-05-07,26,"direct seeding",NA,0,NA,NA,"Sarcodiotheca/Nemalion cover, Desmarestia aculeata (1)","","",NA,"",72,NA
+"116",2024-05-07,27,"pea gravel",NA,0,NA,NA,"blue lined topsnail","Laminaria, Desmarestia","",NA,"",72,NA
+"117",2024-05-07,28,"line",NA,0,NA,NA,"2 big whelks","Desmarestia ligulata (7), red blade (2)","",NA,"",72,NA
+"118",2024-05-07,29,"medium gravel",NA,1,1,8,"1 abalone","Desmarestia, Agarum","12.5 total length",NA,"",72,0.8
+"119",2024-05-07,30,"direct seeding",NA,0,NA,NA,"limpets (10+)","Desmarestia ligulata (9), Agarum (2)","",NA,"",72,NA
+"120",2024-06-12,1,"medium gravel",NA,0,0,NA,"some limpet, some hornmouth","Desmarestia (30% cover)","",NA,"",108,NA
+"121",2024-06-12,2,"cobble",NA,2,2,150,"5 snails, 20 limpet, 5 chiton","Desmarestia (60% cover)","nice kelp, Clay and Lauren got lots of pics, 2 large dead holdfasts, no sori",NA,"",108,15
+"122",2024-06-12,2,"cobble",NA,2,2,2580,"5 snails, 20 limpet, 5 chiton","Desmarestia (60% cover)","nice kelp, Clay and Lauren got lots of pics, 2 large dead holdfasts, no sori",NA,"",108,258
+"123",2024-06-12,3,"line",NA,0,0,NA,"some limpet","Desmarestia (50% cover)","",NA,"",108,NA
+"124",2024-06-12,4,"direct seeding",NA,0,0,NA,"10 chiton","Desmarestia (80% cover)","",NA,"",108,NA
+"125",2024-06-12,5,"line",NA,0,0,NA,"some limpet","Desmarestia (70% cover)","Cucumaria in plot",NA,"",108,NA
+"126",2024-06-12,6,"pea gravel",NA,0,0,NA,"15 chiton, some limpet","Desmarestia (60% cover)","1 red urchin just outside plot, removed.",NA,"",108,NA
+"127",2024-06-12,7,"tile",NA,3,2,1070,"some chiton, 1 abalone","Desmarestia (30% cover)","2 nice holdfasts on cinder blocks; same tile",NA,"",108,107
+"128",2024-06-12,7,"tile",NA,3,2,1540,"some chiton, 1 abalone","Desmarestia (30% cover)","2 nice holdfasts on cinder blocks; same tile",NA,"",108,154
+"129",2024-06-12,7,"tile",NA,3,2,3000,"some chiton, 1 abalone","Desmarestia (30% cover)","2 nice holdfasts on cinder blocks",NA,"",108,300
+"130",2024-06-12,8,"cobble",NA,17,6,890,"10 chiton","Desmarestia (80% cover)","yes, holdfast migrated (photo)",NA,"",108,89
+"131",2024-06-12,8,"cobble",NA,17,6,980,"10 chiton","Desmarestia (80% cover)","yes, holdfast migrated (photo)",NA,"",108,98
+"132",2024-06-12,8,"cobble",NA,17,6,1110,"10 chiton","Desmarestia (80% cover)","yes, holdfast migrated (photo)",NA,"",108,111
+"133",2024-06-12,8,"cobble",NA,17,6,2260,"10 chiton","Desmarestia (80% cover)","yes, holdfast migrated (photo)",NA,"",108,226
+"134",2024-06-12,8,"cobble",NA,17,6,2980,"10 chiton","Desmarestia (80% cover)","yes, holdfast migrated (photo)",NA,"",108,298
+"135",2024-06-12,9,"tile",NA,0,0,NA,"some limpet","Desmarestia (10% cover), 2 red algae","",NA,"",108,NA
+"136",2024-06-12,10,"cobble",NA,4,3,185,"15 chiton","Desmarestia (60% cover)","yes, holdfast migrated",NA,"",108,18.5
+"137",2024-06-12,10,"cobble",NA,4,3,610,"15 chiton","Desmarestia (60% cover)","yes, holdfast migrated",NA,"",108,61
+"138",2024-06-12,10,"cobble",NA,4,3,1370,"15 chiton","Desmarestia (60% cover)","yes, holdfast migrated",NA,"",108,137
+"139",2024-06-12,10,"cobble",NA,4,3,1510,"15 chiton","Desmarestia (60% cover)","yes, holdfast migrated",NA,"",108,151
+"140",2024-06-12,11,"medium gravel",NA,3,2,140,"","Desmarestia (80% cover)","same gravel",NA,"",108,14
+"141",2024-06-12,11,"medium gravel",NA,3,2,350,"","Desmarestia (80% cover)","same gravel",NA,"",108,35
+"142",2024-06-12,11,"medium gravel",NA,3,2,700,"","Desmarestia (80% cover)","holdfasts still totally on small gravel",NA,"",108,70
+"143",2024-06-12,12,"pea gravel",NA,0,0,NA,"1 abalone, 15 chiton","Desmarestia (10% cover)","",NA,"",108,NA
+"144",2024-06-12,13,"medium gravel",NA,0,0,NA,"some chiton","1 Desmarestia, 1 ulva, some reds","",NA,"",108,NA
+"145",2024-06-12,14,"line",NA,0,0,NA,"15 chiton","Desmarestia (20% cover)","",NA,"",108,NA
+"146",2024-06-12,15,"direct seeding",NA,0,0,NA,"some chiton","Desmarestia (50% cover)","",NA,"",108,NA
+"147",2024-06-12,16,"tile",NA,3,1,770,"10 chiton","Desmarestia (10% cover)","",NA,"",108,77
+"148",2024-06-12,16,"tile",NA,3,1,1020,"10 chiton","Desmarestia (10% cover)","",NA,"",108,102
+"149",2024-06-12,16,"tile",NA,3,1,1420,"10 chiton","Desmarestia (10% cover)","",NA,"",108,142
+"150",2024-06-12,17,"direct seeding",NA,0,0,NA,"some limpet, some chiton","Desmarestia (80% cover), 4 Sargassum","",NA,"",108,NA
+"151",2024-06-12,18,"pea gravel",NA,0,0,NA,"10 chiton","Desmarestia (90% cover)","",NA,"",108,NA
+"152",2024-06-12,19,"cobble",NA,11,4,440,"some limpet","Desmarestia (30% cover)","",NA,"",108,44
+"153",2024-06-12,19,"cobble",NA,11,4,1480,"some limpet","Desmarestia (30% cover)","",NA,"",108,148
+"154",2024-06-12,19,"cobble",NA,11,4,1490,"some limpet","Desmarestia (30% cover)","",NA,"",108,149
+"155",2024-06-12,19,"cobble",NA,11,4,1560,"some limpet","Desmarestia (30% cover)","",NA,"",108,156
+"156",2024-06-12,19,"cobble",NA,11,4,2070,"some limpet","Desmarestia (30% cover)","",NA,"",108,207
+"157",2024-06-12,20,"medium gravel",NA,0,0,NA,"5 chiton, 5 limpet, 2 nudibranch","Desmarestia (80% cover), 2 red algae","",NA,"",108,NA
+"158",2024-06-12,21,"cobble",NA,15,5,230,"some limpet","2 red algae, Desmarestia (10% cover), Sargassum, red finger sponge","3 bitten off, 1 holdfast grown off cobble with photo",NA,"",108,23
+"159",2024-06-12,21,"cobble",NA,15,5,1820,"some limpet","2 red algae, Desmarestia (10% cover), Sargassum, red finger sponge","3 bitten off, 1 holdfast grown off cobble with photo",NA,"",108,182
+"160",2024-06-12,21,"cobble",NA,15,5,2230,"some limpet","2 red algae, Desmarestia (10% cover), Sargassum, red finger sponge","3 bitten off, 1 holdfast grown off cobble with photo",NA,"",108,223
+"161",2024-06-12,21,"cobble",NA,15,5,2310,"some limpet","2 red algae, Desmarestia (10% cover), Sargassum, red finger sponge","3 bitten off, 1 holdfast grown off cobble with photo",NA,"",108,231
+"162",2024-06-12,21,"cobble",NA,15,5,2690,"some limpet","2 red algae, Desmarestia (10% cover), Sargassum, red finger sponge","3 bitten off, 1 holdfast grown off cobble with photo",NA,"",108,269
+"163",2024-06-12,22,"tile",NA,0,0,NA,"10 chiton, 5 limpet","40% Desmarestia","",NA,"",108,NA
+"164",2024-06-12,23,"line",NA,0,0,NA,"some limpet, some chiton","Desmarestia (80% cover)","",NA,"",108,NA
+"165",2024-06-12,24,"pea gravel",NA,0,0,NA,"20 chiton","Desmarestia (30% cover)","",NA,"",108,NA
+"166",2024-06-12,25,"tile",NA,0,0,NA,"some limpet, some chiton","3 Desmarestia, 4 sargassum, 3 red algae","",NA,"",108,NA
+"167",2024-06-12,26,"direct seeding",NA,0,0,NA,"20 chiton, 5 limpet","Desmarestia (20% cover)","",NA,"",108,NA
+"168",2024-06-12,27,"pea gravel",NA,0,0,NA,"some chiton, some limpet","1 snail (photographed), Desmarestia (50%)","",NA,"",108,NA
+"169",2024-06-12,28,"line",NA,0,0,NA,"some limpet, some chiton","Desmarestia (90% cover)","",NA,"",108,NA
+"170",2024-06-12,29,"medium gravel",NA,0,0,NA,"some limpet, some chiton","Desmarestia (20% cover), Agarrum 1","",NA,"",108,NA
+"171",2024-06-12,30,"direct seeding",NA,0,0,NA,"20 chiton, 20 limpet","Desmarestia (10% cover), 2 Agarrum","",NA,"",108,NA
+"172",2024-07-03,1,"medium gravel",NA,0,0,NA,NA,NA,NA,NA,"",129,NA
+"173",2024-07-03,2,"cobble",NA,1,1,6390,"1 urchin just outside plot, moved out; some chiton; some limpet","50% Desmarestia","one holdfast migrated - photo",NA,"",129,639
+"174",2024-07-03,3,"line",NA,0,0,NA,NA,NA,NA,NA,"",129,NA
+"175",2024-07-03,4,"direct seeding",NA,0,0,NA,NA,NA,NA,NA,"",129,NA
+"176",2024-07-03,5,"line",NA,0,0,NA,NA,NA,NA,NA,"",129,NA
+"177",2024-07-03,6,"pea gravel",NA,0,0,NA,NA,NA,NA,NA,"",129,NA
+"178",2024-07-03,7,"tile",NA,3,2,5380,"kelp crab, few","70% desmarestia, 50% coralline","3 holdfasts migrated, 1 sorus",NA,"",129,538
+"179",2024-07-03,7,"tile",NA,3,2,2810,"kelp crab, few","70% desmarestia, 50% coralline","same tile; 3 holdfasts migrated, 1 sorus",NA,"",129,281
+"180",2024-07-03,7,"tile",NA,3,2,2140,"kelp crab, few","70% desmarestia, 50% coralline","same tile; 3 holdfasts migrated, 1 sorus",NA,"",129,214
+"181",2024-07-03,8,"cobble",NA,13,6,4760,"few chiton","70% Desmarestia, 5% small red algae","tubesnout, shiner perch, copper rockfish, 2 stipes bitten off",NA,"",129,476
+"182",2024-07-03,8,"cobble",NA,13,6,2950,"few chiton","70% Desmarestia, 5% small red algae","tubesnout, shiner perch, copper rockfish, 2 stipes bitten off",NA,"",129,295
+"183",2024-07-03,8,"cobble",NA,13,6,1730,"few chiton","70% Desmarestia, 5% small red algae","tubesnout, shiner perch, copper rockfish, 2 stipes bitten off",NA,"",129,173
+"184",2024-07-03,8,"cobble",NA,13,6,3000,"few chiton","70% Desmarestia, 5% small red algae","tubesnout, shiner perch, copper rockfish, 2 stipes bitten off",NA,"",129,300
+"185",2024-07-03,8,"cobble",NA,13,6,4090,"few chiton","70% Desmarestia, 5% small red algae","tubesnout, shiner perch, copper rockfish, 2 stipes bitten off",NA,"",129,409
+"186",2024-07-03,9,"tile",NA,0,0,NA,NA,NA,NA,NA,"",129,NA
+"187",2024-07-03,10,"cobble",NA,4,3,2275,"None","80% coralline, 75% desmarestia","2 holdfasts migrated, 2 sori",NA,"",129,227.5
+"188",2024-07-03,10,"cobble",NA,4,3,3815,"None","80% coralline, 75% desmarestia","2 holdfasts migrated, 2 sori",NA,"",129,381.5
+"189",2024-07-03,10,"cobble",NA,4,3,2800,"None","80% coralline, 75% desmarestia","2 holdfasts migrated, 2 sori, same gravel",NA,"",129,280
+"190",2024-07-03,10,"cobble",NA,4,3,1310,"None","80% coralline, 75% desmarestia","2 holdfasts migrated, 2 sori, same gravel",NA,"",129,131
+"191",2024-07-03,11,"medium gravel",NA,0,0,NA,"few chiton, few limpet","80% Desmarestia","may have floated away",NA,"",129,NA
+"192",2024-07-03,12,"pea gravel",NA,0,0,NA,NA,NA,NA,NA,"",129,NA
+"193",2024-07-03,13,"medium gravel",NA,0,0,NA,NA,NA,NA,NA,"",129,NA
+"194",2024-07-03,14,"line",NA,0,0,NA,NA,NA,NA,NA,"",129,NA
+"195",2024-07-03,15,"direct seeding",NA,0,0,NA,NA,NA,NA,NA,"",129,NA
+"196",2024-07-03,16,"tile",NA,2,1,2845,"1 abalone","30% Desmarestia; 40% coralline algae","one without float 1430mm",NA,"",129,284.5
+"197",2024-07-03,16,"tile",NA,2,1,2400,"1 abalone","30% Desmarestia; 40% coralline algae","one without float 1430mm",NA,"",129,240
+"198",2024-07-03,17,"direct seeding",NA,0,0,NA,NA,NA,NA,NA,"",129,NA
+"199",2024-07-03,18,"pea gravel",NA,0,0,NA,NA,NA,NA,NA,"",129,NA
+"200",2024-07-03,19,"cobble",NA,10,4,3970,"some chiton, some limpet","90% Desmarestia","3 holdfasts migrated, sori video, 2 stipes cut, 2 new small kelp growing.",NA,"",129,397
+"201",2024-07-03,19,"cobble",NA,10,4,3460,"some chiton, some limpet","90% Desmarestia","3 holdfasts migrated, sori video, 2 stipes cut, 2 new small kelp growing.",NA,"",129,346
+"202",2024-07-03,19,"cobble",NA,10,4,940,"some chiton, some limpet","90% Desmarestia","3 holdfasts migrated, sori video, 2 stipes cut, 2 new small kelp growing.",NA,"",129,94
+"203",2024-07-03,19,"cobble",NA,10,4,2890,"some chiton, some limpet","90% Desmarestia","3 holdfasts migrated, sori video, 2 stipes cut, 2 new small kelp growing.",NA,"",129,289
+"204",2024-07-03,19,"cobble",NA,10,4,1770,"some chiton, some limpet","90% Desmarestia","3 holdfasts migrated, sori video, 2 stipes cut, 2 new small kelp growing.",NA,"",129,177
+"205",2024-07-03,20,"medium gravel",NA,1,1,450,"None","70% Desmarestia, 10% Agarum",NA,NA,"",129,45
+"206",2024-07-03,21,"cobble",NA,11,4,3550,"1 kelp crab","20% Desmarestia","5 holdfasts migrated, 2 sori; plot had stipes without kelp, did not count them.",NA,"",129,355
+"207",2024-07-03,21,"cobble",NA,11,4,3420,"1 kelp crab","20% Desmarestia","5 holdfasts migrated, 2 sori; plot had stipes without kelp, did not count them.",NA,"",129,342
+"208",2024-07-03,21,"cobble",NA,11,4,840,"1 kelp crab","20% Desmarestia","5 holdfasts migrated, 2 sori; plot had stipes without kelp, did not count them.",NA,"",129,84
+"209",2024-07-03,21,"cobble",NA,11,4,1610,"1 kelp crab","20% Desmarestia","5 holdfasts migrated, 2 sori; plot had stipes without kelp, did not count them.",NA,"",129,161
+"210",2024-07-03,21,"cobble",NA,11,4,4240,"1 kelp crab","20% Desmarestia","5 holdfasts migrated, 2 sori; plot had stipes without kelp, did not count them.",NA,"",129,424
+"211",2024-07-03,22,"tile",NA,0,0,NA,NA,NA,NA,NA,"",129,NA
+"212",2024-07-03,23,"line",NA,0,0,NA,NA,NA,NA,NA,"",129,NA
+"213",2024-07-03,24,"pea gravel",NA,0,0,NA,NA,NA,NA,NA,"",129,NA
+"214",2024-07-03,25,"tile",NA,0,0,NA,NA,NA,NA,NA,"",129,NA
+"215",2024-07-03,26,"direct seeding",NA,0,0,NA,NA,NA,NA,NA,"",129,NA
+"216",2024-07-03,27,"pea gravel",NA,0,0,NA,NA,NA,NA,NA,"",129,NA
+"217",2024-07-03,28,"line",NA,0,0,NA,NA,NA,NA,NA,"",129,NA
+"218",2024-07-03,29,"medium gravel",NA,0,0,NA,NA,NA,NA,NA,"",129,NA
+"219",2024-07-03,30,"direct seeding",NA,0,0,NA,NA,NA,NA,NA,"",129,NA
+"220",2024-07-23,1,"medium gravel",NA,0,0,NA,NA,NA,NA,NA,"",149,NA
+"221",2024-07-23,2,"cobble",NA,1,1,4920,"None","100% Desmarestia","holdfasts on bottom, no sori, photos",NA,"",149,492
+"222",2024-07-23,3,"line",NA,0,0,NA,NA,NA,NA,NA,"",149,NA
+"223",2024-07-23,4,"direct seeding",NA,0,0,NA,NA,NA,NA,NA,"",149,NA
+"224",2024-07-23,5,"line",NA,0,0,NA,NA,NA,NA,NA,"",149,NA
+"225",2024-07-23,6,"pea gravel",NA,0,0,NA,NA,NA,NA,NA,"",149,NA
+"226",2024-07-23,7,"tile",NA,5,4,3490,"kelp crabs",NA,"holdfasts on bottom, no sori, photos",NA,"",149,349
+"227",2024-07-23,7,"tile",NA,5,4,5710,"kelp crabs",NA,"holdfasts on bottom, no sori, photos",NA,"",149,571
+"228",2024-07-23,7,"tile",NA,5,4,5230,"kelp crabs",NA,"holdfasts on bottom, no sori, photos",NA,"",149,523
+"229",2024-07-23,7,"tile",NA,5,4,3170,"kelp crabs",NA,"holdfasts on bottom, no sori, photos",NA,"",149,317
+"230",2024-07-23,7,"tile",NA,5,4,1680,"kelp crabs",NA,"holdfasts on bottom, no sori, photos",NA,"",149,168
+"231",2024-07-23,8,"cobble",NA,12,5,3700,"kelp crab","100% Desmarestia","holdfasts on bottom, no sori",NA,"",149,370
+"232",2024-07-23,8,"cobble",NA,12,5,3800,"kelp crab","100% Desmarestia","holdfasts on bottom, no sori",NA,"",149,380
+"233",2024-07-23,8,"cobble",NA,12,5,2030,"kelp crab","100% Desmarestia","holdfasts on bottom, no sori",NA,"",149,203
+"234",2024-07-23,8,"cobble",NA,12,5,4980,"kelp crab","100% Desmarestia","holdfasts on bottom, no sori",NA,"",149,498
+"235",2024-07-23,8,"cobble",NA,12,5,5720,"kelp crab","100% Desmarestia","holdfasts on bottom, no sori",NA,"",149,572
+"236",2024-07-23,9,"tile",NA,0,0,NA,NA,NA,NA,NA,"",149,NA
+"237",2024-07-23,10,"cobble",NA,3,3,2710,"None","75% Desmarestia","holdfasts on bottom, no sori",NA,"",149,271
+"238",2024-07-23,10,"cobble",NA,3,3,4520,"None","75% Desmarestia","holdfasts on bottom, no sori",NA,"",149,452
+"239",2024-07-23,10,"cobble",NA,3,3,3030,"None","75% Desmarestia","holdfasts on bottom, no sori",NA,"",149,303
+"240",2024-07-23,11,"medium gravel",NA,0,0,NA,NA,NA,NA,NA,"",149,NA
+"241",2024-07-23,12,"pea gravel",NA,0,0,NA,NA,NA,NA,NA,"",149,NA
+"242",2024-07-23,13,"medium gravel",NA,0,0,NA,NA,NA,NA,NA,"",149,NA
+"243",2024-07-23,14,"line",NA,0,0,NA,NA,NA,NA,NA,"",149,NA
+"244",2024-07-23,15,"direct seeding",NA,0,0,NA,NA,NA,NA,NA,"",149,NA
+"245",2024-07-23,16,"tile",NA,2,1,3170,"None","75% Desmarestia",NA,NA,"",149,317
+"246",2024-07-23,16,"tile",NA,2,1,2780,"None","75% Desmarestia",NA,NA,"",149,278
+"247",2024-07-23,17,"direct seeding",NA,0,0,NA,NA,NA,NA,NA,"",149,NA
+"248",2024-07-23,18,"pea gravel",NA,0,0,NA,NA,NA,NA,NA,"",149,NA
+"249",2024-07-23,19,"cobble",NA,6,4,2850,"kelp crabs","100% Desmarestia","holdfasts on bottom, no sori",NA,"",149,285
+"250",2024-07-23,19,"cobble",NA,6,4,3730,"kelp crabs","100% Desmarestia","holdfasts on bottom, no sori",NA,"",149,373
+"251",2024-07-23,19,"cobble",NA,6,4,1140,"kelp crabs","100% Desmarestia","holdfasts on bottom, no sori",NA,"",149,114
+"252",2024-07-23,19,"cobble",NA,6,4,2990,"kelp crabs","100% Desmarestia","holdfasts on bottom, no sori",NA,"",149,299
+"253",2024-07-23,19,"cobble",NA,6,4,4190,"kelp crabs","100% Desmarestia","holdfasts on bottom, no sori",NA,"",149,419
+"254",2024-07-23,20,"medium gravel",NA,1,1,1040,NA,NA,NA,NA,"",149,104
+"255",2024-07-23,21,"cobble",NA,9,4,1080,"kelp crabs","25% Desmarestia","no holdfasts on bottom",NA,"",149,108
+"256",2024-07-23,21,"cobble",NA,9,4,3850,"kelp crabs","25% Desmarestia","no holdfasts on bottom",NA,"",149,385
+"257",2024-07-23,21,"cobble",NA,9,4,4870,"kelp crabs","25% Desmarestia","no holdfasts on bottom",NA,"",149,487
+"258",2024-07-23,21,"cobble",NA,9,4,4450,"kelp crabs","25% Desmarestia","no holdfasts on bottom",NA,"",149,445
+"259",2024-07-23,21,"cobble",NA,9,4,5490,"kelp crabs","25% Desmarestia","no holdfasts on bottom",NA,"",149,549
+"260",2024-07-23,22,"tile",NA,0,0,NA,NA,NA,NA,NA,"",149,NA
+"261",2024-07-23,23,"line",NA,0,0,NA,NA,NA,NA,NA,"",149,NA
+"262",2024-07-23,24,"pea gravel",NA,0,0,NA,NA,NA,NA,NA,"",149,NA
+"263",2024-07-23,25,"tile",NA,0,0,NA,NA,NA,NA,NA,"",149,NA
+"264",2024-07-23,26,"direct seeding",NA,0,0,NA,NA,NA,NA,NA,"",149,NA
+"265",2024-07-23,27,"pea gravel",NA,0,0,NA,NA,NA,NA,NA,"",149,NA
+"266",2024-07-23,28,"line",NA,0,0,NA,NA,NA,NA,NA,"",149,NA
+"267",2024-07-23,29,"medium gravel",NA,0,0,NA,NA,NA,NA,NA,"",149,NA
+"268",2024-07-23,30,"direct seeding",NA,0,0,NA,NA,NA,NA,NA,"",149,NA
+"269",2024-08-05,1,"medium gravel",NA,0,0,NA,NA,NA,NA,NA,"",162,NA
+"270",2024-08-05,2,"cobble",NA,1,1,5220,"kelp crab","75% Desmarestia","1 holdfast grown onto bottom, no sori",NA,"",162,522
+"271",2024-08-05,3,"line",NA,0,0,NA,NA,NA,NA,NA,"",162,NA
+"272",2024-08-05,4,"direct seeding",NA,0,0,NA,NA,NA,NA,NA,"",162,NA
+"273",2024-08-05,5,"line",NA,0,0,NA,NA,NA,NA,NA,"",162,NA
+"274",2024-08-05,6,"pea gravel",NA,0,0,NA,NA,NA,NA,NA,"",162,NA
+"275",2024-08-05,7,"tile",NA,5,4,3950,"kelp crab","75% Desmarestia","4 holdfasts on bottom, 4 on tile, 2 on cobble, no sori",NA,"",162,395
+"276",2024-08-05,7,"tile",NA,5,4,3040,"kelp crab","75% Desmarestia","4 holdfasts on bottom, 4 on tile, 2 on cobble, no sori",NA,"",162,304
+"277",2024-08-05,7,"tile",NA,5,4,5460,"kelp crab","75% Desmarestia","4 holdfasts on bottom, 4 on tile, 2 on cobble, no sori",NA,"",162,546
+"278",2024-08-05,7,"tile",NA,5,4,5150,"kelp crab","75% Desmarestia","4 holdfasts on bottom, 4 on tile, 2 on cobble, no sori",NA,"",162,515
+"279",2024-08-05,7,"tile",NA,5,4,3970,"kelp crab","75% Desmarestia","4 holdfasts on bottom, 4 on tile, 2 on cobble, no sori",NA,"",162,397
+"280",2024-08-05,8,"cobble",NA,11,6,3920,"kelp crab","50% Desmarestia","3 holdfasts on bottom, no sori",NA,"",162,392
+"281",2024-08-05,8,"cobble",NA,11,6,5200,"kelp crab","50% Desmarestia","3 holdfasts on bottom, no sori",NA,"",162,520
+"282",2024-08-05,8,"cobble",NA,11,6,3120,"kelp crab","50% Desmarestia","3 holdfasts on bottom, no sori",NA,"",162,312
+"283",2024-08-05,8,"cobble",NA,11,6,4580,"kelp crab","50% Desmarestia","3 holdfasts on bottom, no sori",NA,"",162,458
+"284",2024-08-05,8,"cobble",NA,11,6,5800,"kelp crab","50% Desmarestia","3 holdfasts on bottom, no sori",NA,"",162,580
+"285",2024-08-05,9,"tile",NA,0,0,NA,NA,NA,NA,NA,"",162,NA
+"286",2024-08-05,10,"cobble",NA,3,3,2950,"kelp crab","75% Desmarestia","2 holdfasts on bottom, no sori",NA,"",162,295
+"287",2024-08-05,10,"cobble",NA,3,3,5140,"kelp crab","75% Desmarestia","3 holdfasts on bottom, no sori",NA,"",162,514
+"288",2024-08-05,10,"cobble",NA,3,3,3230,"kelp crab","75% Desmarestia","2 holdfasts on bottom, no sori",NA,"",162,323
+"289",2024-08-05,11,"medium gravel",NA,0,0,NA,NA,NA,NA,NA,"",162,NA
+"290",2024-08-05,12,"pea gravel",NA,0,0,NA,NA,NA,NA,NA,"",162,NA
+"291",2024-08-05,13,"medium gravel",NA,0,0,NA,NA,NA,NA,NA,"",162,NA
+"292",2024-08-05,14,"line",NA,0,0,NA,NA,NA,NA,NA,"",162,NA
+"293",2024-08-05,15,"direct seeding",NA,0,0,NA,NA,NA,NA,NA,"",162,NA
+"294",2024-08-05,16,"tile",NA,1,1,3720,"kelp crab","75% Desmarestia","no sori",NA,"",162,372
+"295",2024-08-05,17,"direct seeding",NA,0,0,NA,NA,NA,NA,NA,"",162,NA
+"296",2024-08-05,18,"pea gravel",NA,0,0,NA,NA,NA,NA,NA,"",162,NA
+"297",2024-08-05,19,"cobble",NA,6,4,4210,"kelp crab","25% Desmarestia","no sori",NA,"",162,421
+"298",2024-08-05,19,"cobble",NA,6,4,3910,"kelp crab","25% Desmarestia","no sori",NA,"",162,391
+"299",2024-08-05,19,"cobble",NA,6,4,2860,"kelp crab","25% Desmarestia","no sori",NA,"",162,286
+"300",2024-08-05,19,"cobble",NA,6,4,1200,"kelp crab","25% Desmarestia","no sori",NA,"",162,120
+"301",2024-08-05,19,"cobble",NA,6,4,3170,"kelp crab","25% Desmarestia","no sori",NA,"",162,317
+"302",2024-08-05,20,"medium gravel",NA,1,1,1560,NA,NA,"no sori",NA,"",162,156
+"303",2024-08-05,21,"cobble",NA,9,4,5950,"kelp crab","25% Desmarestia","no sori",NA,"",162,595
+"304",2024-08-05,21,"cobble",NA,9,4,2500,"kelp crab","25% Desmarestia","no sori",NA,"",162,250
+"305",2024-08-05,21,"cobble",NA,9,4,3750,"kelp crab","25% Desmarestia","no sori",NA,"",162,375
+"306",2024-08-05,21,"cobble",NA,9,4,3810,"kelp crab","25% Desmarestia","no sori",NA,"",162,381
+"307",2024-08-05,21,"cobble",NA,9,4,1140,"kelp crab","25% Desmarestia","no sori",NA,"",162,114
+"308",2024-08-05,22,"tile",NA,0,0,NA,NA,NA,NA,NA,"",162,NA
+"309",2024-08-05,23,"line",NA,0,0,NA,NA,NA,NA,NA,"",162,NA
+"310",2024-08-05,24,"pea gravel",NA,0,0,NA,NA,NA,NA,NA,"",162,NA
+"311",2024-08-05,25,"tile",NA,0,0,NA,NA,NA,NA,NA,"",162,NA
+"312",2024-08-05,26,"direct seeding",NA,0,0,NA,NA,NA,NA,NA,"",162,NA
+"313",2024-08-05,27,"pea gravel",NA,0,0,NA,NA,NA,NA,NA,"",162,NA
+"314",2024-08-05,28,"line",NA,0,0,NA,NA,NA,NA,NA,"",162,NA
+"315",2024-08-05,29,"medium gravel",NA,0,0,NA,NA,NA,NA,NA,"",162,NA
+"316",2024-08-05,30,"direct seeding",NA,0,0,NA,NA,NA,NA,NA,"",162,NA
